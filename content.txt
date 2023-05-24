@@ -1,4 +1,7 @@
 search
 notifications
 libray
+home
+shorts
+subscriptions
 etc
